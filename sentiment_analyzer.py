@@ -1,5 +1,5 @@
 # 1.) Clone the project repository
-git clone https://github.com/ibm-developer-skills-network/zzrjt-practice-project-emb-ai.git # run this in the terminal.
+git clone https://github.com/ibm-developer-skills-network/zzrjt-practice-project-emb-ai.git practice_project # run this in the terminal.
 cd practice_project # This is assuming you made a folder named practice_project already. 
 
 # 2.) Create a sentiment analysis application using Watson NLP library

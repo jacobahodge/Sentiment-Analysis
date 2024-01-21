@@ -2,7 +2,7 @@
 
 <h1>Tasks and objectives:<h1/>
   
-Task 1: Clone the project repository
+Task 1: Clone the project repository /n
 Task 2: Create a sentiment analysis application using Watson NLP library
 Task 3: Format the output of the application
 Task 4: Package the application

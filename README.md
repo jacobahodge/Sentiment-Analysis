@@ -1,6 +1,6 @@
 # Sentiment-Analysis
 
-<h1>Tasks and objectives:<h1/>
+<h1>Tasks and objectives:</h1>
   
 <ol>
   <li>Clone the project repository</li>
